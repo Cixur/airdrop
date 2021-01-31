@@ -1,1 +1,1 @@
-# airdrop
+$ git clone https://github.com/handshake-org/hs-airdrop.git
